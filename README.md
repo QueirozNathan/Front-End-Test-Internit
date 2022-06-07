@@ -9,7 +9,7 @@ Bom, este é o teste que fiz para a Internit. Infelizmente não consegui complet
 Well, this is the test that i've did for the Internit Company. Unfortunally, i've not completed 100% of the test ( still need to do the responsive part, some interactions using javascript and etc..)
 but here is but here's where i got to. Even though i haven't completed it, i would like to show what was to be done. Let's go! 🇺🇸
 
-## Qual era o Projeto? // What was the project? 
+## O que era o Projeto? // What was the project? 
 
 Basicamente, tudo o que eu precisava fazer era construir uma página única simples que tivesse algumas interações e precisava ser responsiva. Vou colocar algumas imagens abaixo que mostra onde eu consegui chegar.
 
