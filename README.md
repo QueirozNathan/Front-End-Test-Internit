@@ -6,8 +6,7 @@ This is a little test that i've did for the Internit Company.
 
 Bom, este é o teste que fiz para a Internit. Infelizmente não consegui completar 100% do teste (ainda precisava fazer a parte responsiva, algumas interações usando javascript e etc..), mas aqui é onde eu cheguei. Mesmo não tendo concluído, gostaria de mostrar o que eu deveria ter feito. Vamos lá! 🇧🇷
 
-Well, this is the test that i've did for the Internit Company. Unfortunally, i've not completed 100% of the test ( still need to do the responsive part, some interactions using javascript and etc..)
-but here is but here's where i got to. Even though i haven't completed it, i would like to show what was to be done. Let's go! 🇺🇸
+Well, this is the test that i've did for the Internit Company. Unfortunally, i've not completed 100% of the test ( still need to do the responsive part, some interactions using javascript and etc..) but here's where i got to. Even though i haven't completed it, i would like to show what was to be done. Let's go! 🇺🇸
 
 ## O que era o Projeto? // What was the project? 
 
