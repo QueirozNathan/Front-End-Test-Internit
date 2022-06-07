@@ -10,9 +10,9 @@ Well, this is the test that i've did for the Internit Company. Unfortunally, i'v
 
 ## O que era o Projeto? // What was the project? 
 
-Basicamente, tudo o que eu precisava fazer era construir uma página única simples que tivesse algumas interações e precisava ser responsiva. Vou colocar algumas imagens abaixo que mostra onde eu consegui chegar.
+Basicamente, tudo o que eu precisava fazer era construir uma página única simples que tivesse algumas interações e precisava ser responsiva. Vou colocar algumas imagens abaixo que mostram onde eu consegui chegar.
 
-Basically, all i needed to do was build and simple single page that had some interactions and needed to be responsive. I will put some images bellow that shows where i get.
+Basically, all i needed to do was build a simple single page that had some interactions and needed to be responsive. I will put some images bellow that shows where i get.
 
 <img src="/prints/Home-page.png"/>
 
